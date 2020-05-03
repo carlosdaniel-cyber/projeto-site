@@ -14,3 +14,13 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, .473);
 }
+
+h1 {
+    font-size: 30px;
+    color: rgb(52, 107, 109);
+}
+
+h2 {
+    font-size: 20px;
+    color: rgb(52, 107, 109);
+}
